@@ -145,7 +145,7 @@
     ],
     "items": [
         {
-            "id": "https://raw.githubusercontent.com/BitPhilology/archival-iiif/main/test-PDF/test!SAINT-M.1DO.pdf",
+            "id": "https://iiif.sozialarchiv.ch/iiif/canvas/Info--Test.pdf",
             "type": "Canvas",
             "width": 1,
             "height": 1,
