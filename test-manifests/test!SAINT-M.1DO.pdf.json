@@ -163,7 +163,7 @@
                                 "type": "foaf:Document",
                                 "format": "application/pdf"
                             },
-                            "target": "https://github.com/BitPhilology/archival-iiif/main/test-PDF/test!SAINT-M.1DO.pdf"
+                            "target": "https://iiif.sozialarchiv.ch/iiif/canvas/Info--Test.pdf"
                         }
                     ]
                 }
