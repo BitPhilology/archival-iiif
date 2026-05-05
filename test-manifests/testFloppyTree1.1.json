@@ -28,7 +28,7 @@
     ],
     "items": [
         {
-            "id": "LINK DA CAMBIARE CON LINK A RISORSA CORRISPONDENTE test!SAINT-M.1.pdf",
+            "id": "https://raw.githubusercontent.com/BitPhilology/archival-iiif/refs/heads/main/test-manifests/test!SAINT-M.1.pdf.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "id": "LINK DA CAMBIARE CON LINK A RISORSA CORRISPONDENTE test!SAINT-M.1DO.pdf",
+            "id": "https://raw.githubusercontent.com/BitPhilology/archival-iiif/refs/heads/main/test-manifests/test!SAINT-M.1.pdf.json",
             "type": "Manifest",
             "label": {
                 "none": [
