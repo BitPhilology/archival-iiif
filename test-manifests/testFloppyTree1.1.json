@@ -9,7 +9,7 @@
     },
     "partOf": [
         {
-            "id": "https://iiif.sozialarchiv.ch/iiif/collection/demo"
+            "id": "https://raw.githubusercontent.com/BitPhilology/archival-iiif/refs/heads/main/test-manifests/testFloppyTree1.json"
         }
     ],
     "rendering": [
