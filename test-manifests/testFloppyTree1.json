@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.sozialarchiv.ch/iiif/collection/demo",
+    "type": "Collection",
+    "label": "p96_g-2-10_20",
+    "rendering": [
+        {
+            "id": "https://iiif.sozialarchiv.ch/zip/demo",
+            "label": {
+                "en": [
+                    "Download folder"
+                ],
+                "fr": [
+                    "Dossier à télécharger"
+                ]
+            },
+            "format": "application/zip"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.sozialarchiv.ch/iiif/collection/SAINT_MARTIN",
+            "type": "Collection",
+            "label": {
+                "none": [
+                    "SAINT MARTIN W_R_51"
+                ]
+            }
+        }
+    ],
+    "description": {
+        "en": [
+            "A slightly fictitious representation of a floppy disk by <a href=\"https://en.wikipedia.org/wiki/Jeanlouis_Cornuz\">Jeanlouis Cornuz</a> "
+        ],
+        "fr": [
+            "Une représentation quelque peu fantaisiste d'une disquette, par <a href=\"https://fr.wikipedia.org/wiki/Jeanlouis_Cornuz\">Jeanlouis Cornuz</a> "
+        ]
+    }
+}

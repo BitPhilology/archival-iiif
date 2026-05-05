@@ -1,0 +1,187 @@
+{
+    "id": "https://iiif.sozialarchiv.ch/iiif/manifest/Info--Test.pdf",
+    "type": "Manifest",
+    "label": "test!SAINT-MA.W51.pdf",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "partOf": [
+        {
+            "id": "https://iiif.sozialarchiv.ch/iiif/collection/Info",
+            "type": "Collection"
+        }
+    ],
+    "thumbnail": {
+        "id": "https://iiif.sozialarchiv.ch/file-icon/pdf.svg",
+        "format": "image/svg+xml"
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Name"
+                ]
+            },
+            "value": "SAINT-MA.W51"
+        },
+        {
+            "label": {
+                "en": [
+                    "Modified Time"
+                ]
+            },
+            "value": "1995-09-05 11:38:36 CEST"
+        },
+        {
+            "label": {
+                "en": [
+                    "Change Time"
+                ]
+            },
+            "value": "0000-00-00 00:00:00"
+        },
+        {
+            "label": {
+                "en": [
+                    "Access Time"
+                ]
+            },
+            "value": "2026-02-18 00:00:00 CET"
+        },
+        {
+            "label": {
+                "en": [
+                    "Created Time"
+                ]
+            },
+            "value": "0000-00-00 00:00:00"
+        },
+        {
+            "label": {
+                "en": [
+                    "Location"
+                ]
+            },
+            "value": "/img_p96_g-2-10_20.img/SAINT-MA.W51"
+        },
+        {
+            "label": {
+                "en": [
+                    "Type"
+                ]
+            },
+            "value": "x-fmt/394"
+        },
+        {
+            "label": {
+                "en": [
+                    "PUID"
+                ]
+            },
+            "value": "application/vnd.wordperfect"
+        },
+        {
+            "label": {
+                "en": [
+                    "Format Name"
+                ]
+            },
+            "value": "WordPerfect for MS-DOS/Windows Document"
+        },
+        {
+            "label": {
+                "en": [
+                    "Format Version"
+                ]
+            },
+            "value": "5.1"
+        },
+        {
+            "label": {
+                "en": [
+                    "File Permissions"
+                ]
+            },
+            "value": "rwx"
+        },
+        {
+            "label": {
+                "en": [
+                    "MD5 Hash"
+                ]
+            },
+            "value": "4f36c48cf99f6ea2a04647dd8a5912fc"
+        },
+        {
+            "label": {
+                "en": [
+                    "SHA-256 Hash"
+                ]
+            },
+            "value": "6237b8dd252dd9e23a85981411fda98cec56f4dbbd988e84adfd57b9a9626074"
+        },
+        {
+            "label": {
+                "en": [
+                    "MIME"
+                ]
+            },
+            "value": "application/vnd.wordperfect"
+        },
+        {
+            "label": {
+                "en": [
+                    "Extension"
+                ]
+            },
+            "value": "w51"
+        },
+        {
+            "label": {
+                "en": [
+                    "Size"
+                ]
+            },
+            "value": "244863 kB"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.sozialarchiv.ch/iiif/canvas/Info--Test.pdf",
+            "type": "Canvas",
+            "width": 1,
+            "height": 1,
+            "items": [
+                {
+                    "id": "https://iiif.sozialarchiv.ch/iiif/annotationPage/Info--Test.pdf",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.sozialarchiv.ch/iiif/annotation/Info--Test.pdf",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "CAMBIARE QUI LINK A PDF",
+                                "type": "foaf:Document",
+                                "format": "application/pdf"
+                            },
+                            "target": "https://iiif.sozialarchiv.ch/iiif/canvas/Info--Test.pdf"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "CAMBIARE QUI LINK A PDF",
+                    "label": {
+                        "en": [
+                            "Original copy"
+                        ],
+                        "de": [
+                            "Originalkopie"
+                        ]
+                    },
+                    "format": "application/pdf"
+                }
+            ]
+        }
+    ]
+}

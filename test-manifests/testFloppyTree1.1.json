@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.sozialarchiv.ch/iiif/collection/Info",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "SAINT MARTIN W_R_51"
+        ]
+    },
+    "partOf": [
+        {
+            "id": "https://iiif.sozialarchiv.ch/iiif/collection/demo"
+        }
+    ],
+    "rendering": [
+        {
+            "id": "https://iiif.sozialarchiv.ch/zip/Info",
+            "label": {
+                "en": [
+                    "Download folder"
+                ],
+                "fr": [
+                    "Dossier à télécharger"
+                ]
+            },
+            "format": "application/zip"
+        }
+    ],
+    "items": [
+        {
+            "id": "LINK DA CAMBIARE CON LINK A RISORSA CORRISPONDENTE test!SAINT-M.1.pdf",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "test!SAINT-M.1.pdf"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.sozialarchiv.ch/file-icon/pdf.svg",
+                    "type": "image",
+                    "format": "image/svg+xml"
+                }
+            ]
+        },
+        {
+            "id": "LINK DA CAMBIARE CON LINK A RISORSA CORRISPONDENTE test!SAINT-M.1DO.pdf",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "test!SAINT-M.1DO.pdf"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.sozialarchiv.ch/file-icon/pdf.svg",
+                    "type": "image",
+                    "format": "image/svg+xml"
+                }
+            ]
+        },
+        {
+            "id": "LINK DA CAMBIARE CON LINK A RISORSA CORRISPONDENTE testSAINT-MA.W51.pdf",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "testSAINT-MA.W51.pdf"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.sozialarchiv.ch/file-icon/pdf.svg",
+                    "type": "image",
+                    "format": "image/svg+xml"
+                }
+            ]
+        }
+    ]
+}
