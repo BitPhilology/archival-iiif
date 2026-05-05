@@ -19,7 +19,7 @@
     ],
     "items": [
         {
-            "id": "https://iiif.sozialarchiv.ch/iiif/collection/SAINT_MARTIN",
+            "id": "https://raw.githubusercontent.com/BitPhilology/archival-iiif/refs/heads/main/test-manifests/testFloppyTree1.1.json",
             "type": "Collection",
             "label": {
                 "none": [
