@@ -60,7 +60,7 @@
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/BitPhilology/archival-iiif/refs/heads/main/test-manifests/test!SAINT-MA.W51.pdf.json",
+            "id": "https://raw.githubusercontent.com/BitPhilology/archival-iiif/refs/heads/main/test-manifests/testSAINT-MA.W51.pdf.json",
             "type": "Manifest",
             "label": {
                 "none": [
